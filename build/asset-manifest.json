@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f26cc238.chunk.js",
+    "main.js.map": "/static/js/main.f26cc238.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.c30e6f84.js",
+    "runtime~main.js.map": "/static/js/runtime~main.c30e6f84.js.map",
+    "static/js/2.ada4516e.chunk.js": "/static/js/2.ada4516e.chunk.js",
+    "static/js/2.ada4516e.chunk.js.map": "/static/js/2.ada4516e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f6a6e9c04c372780aabfd561215ed895.js": "/precache-manifest.f6a6e9c04c372780aabfd561215ed895.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/gameBoard.png": "/static/media/gameBoard.03cbc304.png"
+  }
+}

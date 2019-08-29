@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/royalGameOfUr/static/js/main.20a8715d.chunk.js",
-    "main.js.map": "/royalGameOfUr/static/js/main.20a8715d.chunk.js.map",
-    "runtime~main.js": "/royalGameOfUr/static/js/runtime~main.bda794af.js",
-    "runtime~main.js.map": "/royalGameOfUr/static/js/runtime~main.bda794af.js.map",
-    "static/js/2.ada4516e.chunk.js": "/royalGameOfUr/static/js/2.ada4516e.chunk.js",
-    "static/js/2.ada4516e.chunk.js.map": "/royalGameOfUr/static/js/2.ada4516e.chunk.js.map",
-    "index.html": "/royalGameOfUr/index.html",
-    "precache-manifest.83c61398c3628e3818105c8960805284.js": "/royalGameOfUr/precache-manifest.83c61398c3628e3818105c8960805284.js",
-    "service-worker.js": "/royalGameOfUr/service-worker.js",
-    "static/media/gameBoard.png": "/royalGameOfUr/static/media/gameBoard.03cbc304.png"
+    "main.js": "/royalGameOfUrBuild/static/js/main.f4f8b55e.chunk.js",
+    "main.js.map": "/royalGameOfUrBuild/static/js/main.f4f8b55e.chunk.js.map",
+    "runtime~main.js": "/royalGameOfUrBuild/static/js/runtime~main.f7193c79.js",
+    "runtime~main.js.map": "/royalGameOfUrBuild/static/js/runtime~main.f7193c79.js.map",
+    "static/js/2.ada4516e.chunk.js": "/royalGameOfUrBuild/static/js/2.ada4516e.chunk.js",
+    "static/js/2.ada4516e.chunk.js.map": "/royalGameOfUrBuild/static/js/2.ada4516e.chunk.js.map",
+    "index.html": "/royalGameOfUrBuild/index.html",
+    "precache-manifest.544fdc3f03426712d086e881fc3418ea.js": "/royalGameOfUrBuild/precache-manifest.544fdc3f03426712d086e881fc3418ea.js",
+    "service-worker.js": "/royalGameOfUrBuild/service-worker.js",
+    "static/media/gameBoard.png": "/royalGameOfUrBuild/static/media/gameBoard.03cbc304.png"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/royalGameOfUr/static/js/main.20a8715d.chunk.js",
+    "main.js.map": "/royalGameOfUr/static/js/main.20a8715d.chunk.js.map",
+    "runtime~main.js": "/royalGameOfUr/static/js/runtime~main.bda794af.js",
+    "runtime~main.js.map": "/royalGameOfUr/static/js/runtime~main.bda794af.js.map",
+    "static/js/2.ada4516e.chunk.js": "/royalGameOfUr/static/js/2.ada4516e.chunk.js",
+    "static/js/2.ada4516e.chunk.js.map": "/royalGameOfUr/static/js/2.ada4516e.chunk.js.map",
+    "index.html": "/royalGameOfUr/index.html",
+    "precache-manifest.83c61398c3628e3818105c8960805284.js": "/royalGameOfUr/precache-manifest.83c61398c3628e3818105c8960805284.js",
+    "service-worker.js": "/royalGameOfUr/service-worker.js",
+    "static/media/gameBoard.png": "/royalGameOfUr/static/media/gameBoard.03cbc304.png"
+  }
+}

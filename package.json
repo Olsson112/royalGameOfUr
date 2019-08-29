@@ -2,6 +2,7 @@
   "name": "royalur",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://Olsson112.github.io/royalGameOfUr",
   "dependencies": {
     "@types/jest": "24.0.17",
     "@types/lodash": "^4.14.136",
